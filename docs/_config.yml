@@ -5,7 +5,6 @@ description         : >-
                       use tabs over spaces
                       and never broke production.
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
 ### Plugins ###
