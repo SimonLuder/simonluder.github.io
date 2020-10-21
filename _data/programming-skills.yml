@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
-
-- name: Go
-  percentage: 80
-  color:
-
 - name: Python
+  percentage: 75
+  color: rojalblue
+
+- name: R
   percentage: 70
-  color: dark
+  color: cornflower
+
+- name: HTML
+  percentage: 65
+  color: cadetblue
