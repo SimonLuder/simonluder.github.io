@@ -1,0 +1,17 @@
+- name: Data Wrangling
+  percentage: 70
+  color: chocolate
+
+- name: Data Vizualisation
+  percentage: 75
+  color: orange
+
+- name: Math & Statistics
+  percentage: 75
+  color: sandybrown 
+
+- name: Machine Learning
+  percentage: 0
+  color: peru
+
+
