@@ -66,8 +66,68 @@
   background: $dark;
 }
 
+.skill-bar.skill-bar-slateblue {
+  background: $slateblue;
+}
+
 .skill-bar.skill-bar-orange {
   background: $orange;
+}
+
+.skill-bar.skill-bar-tomato {
+  background: $tomato;
+}
+
+.skill-bar.skill-bar-gold {
+  background: $gold;
+}
+
+.skill-bar.skill-bar-seagreen {
+  background: $seagreen;
+}
+
+.skill-bar.skill-bar-olive {
+  background: $olive;
+}
+
+.skill-bar.skill-bar-aquamarine {
+  background: $aquamarine;
+}
+
+.skill-bar.skill-bar-cyan {
+  background: $cyan;
+}
+
+.skill-bar.skill-bar-mediumblue {
+  background: $mediumblue;
+}
+
+.skill-bar.skill-bar-rojalblue {
+  background: $rojalblue;
+}
+
+.skill-bar.skill-bar-cornflower {
+  background: $cornflower;
+}
+
+.skill-bar.skill-bar-cadetblue {
+  background: $cadetblue;
+}
+
+.skill-bar.skill-bar-goldenrod {
+  background: $goldenrod;
+}
+
+.skill-bar.skill-bar-chocolate {
+  background: $chocolate;
+}
+
+.skill-bar.skill-bar-sandybrown {
+  background: $sandybrown;
+}
+
+.skill-bar.skill-bar-peru {
+  background: $peru;
 }
 
 @for $i from 0 through 100 {
