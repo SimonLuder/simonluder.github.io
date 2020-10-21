@@ -1,10 +1,10 @@
 - name: Python
   percentage: 75
-  color: rojalblue
+  color: cornflower
 
 - name: R
   percentage: 70
-  color: cornflower
+  color: rojalblue
 
 - name: HTML
   percentage: 65
