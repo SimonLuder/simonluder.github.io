@@ -1,10 +1,10 @@
 - name: Communication
   percentage: 75
-  color: seagreen 
+  color: olive 
 
 - name: Teamwork
   percentage: 80
-  color: olive 
+  color: seagreen 
 
 - name: Livelong Learning
   percentage: 90
