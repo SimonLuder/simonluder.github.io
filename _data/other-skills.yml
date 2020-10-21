@@ -1,11 +1,11 @@
-- name: Teamwork
-  percentage: 90
-  color: success 
-
 - name: Communication
-  percentage: 95
-  color: success 
+  percentage: 75
+  color: seagreen 
+
+- name: Teamwork
+  percentage: 80
+  color: olive 
 
 - name: Livelong Learning
-  percentage: 95
-  color: success 
+  percentage: 90
+  color: cyan 
