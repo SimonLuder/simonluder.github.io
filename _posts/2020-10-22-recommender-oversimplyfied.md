@@ -2,7 +2,7 @@
 title: Recommender Systems Oversimplified
 tags: [Recommender Systems, Infographic]
 style: fill
-color: danger
+color: $slateblue
 description: An infographic about the basic applications and functionality of recommender systems.
 ---
 
