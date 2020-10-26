@@ -1,4 +1,4 @@
-- name: Python
+- name: Python :snake:
   percentage: 75
   color: cornflower
 
