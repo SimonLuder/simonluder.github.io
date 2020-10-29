@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : Welcome to my portfolio
-description         : <font size="+2">Hi :wave:, I am Simon Luder, Data Science student at FHNW.</font>
+description         : *Hi :wave:, I am Simon Luder, Data Science student at FHNW.*
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 
 
