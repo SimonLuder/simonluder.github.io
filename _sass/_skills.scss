@@ -133,5 +133,6 @@
 @for $i from 0 through 100 {
   .skill-#{$i} {
     width: percentage($i/100);
+    color: #0000FF;
   }
 }
