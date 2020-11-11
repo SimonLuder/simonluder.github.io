@@ -1,17 +1,21 @@
 - name: Data Wrangling
   percentage: 75
   color: chocolate
+  url: https://www.youtube.com/watch?v=rU3bMjcvUhE&t=805s
 
 - name: Data Vizualisation
   percentage: 85
   color: orange
+  url: https://www.youtube.com/watch?v=rU3bMjcvUhE&t=805s
 
 - name: Math & Statistics
   percentage: 80
   color: sandybrown 
+  url: https://www.youtube.com/watch?v=rU3bMjcvUhE&t=805s
 
 - name: AI & ML
   percentage: 50
   color: peru
+  url: https://www.youtube.com/watch?v=rU3bMjcvUhE&t=805s
 
 

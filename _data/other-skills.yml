@@ -1,11 +1,14 @@
 - name: Communication
   percentage: 75
   color: olive 
+  url: https://www.youtube.com/watch?v=rU3bMjcvUhE&t=805s
 
 - name: Teamwork
   percentage: 80
   color: seagreen 
+  url: https://www.youtube.com/watch?v=rU3bMjcvUhE&t=805s
 
 - name: Livelong Learning
   percentage: 90
   color: cyan 
+  url: https://www.youtube.com/watch?v=rU3bMjcvUhE&t=805s
