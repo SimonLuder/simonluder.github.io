@@ -3,7 +3,7 @@
     {% for skill in include.source %}
       <div class="skill">
         <!---->
-        <a href= "{{ skill.url }}"><font color="black">{{ skill.name }}</a>
+        <a href= "{{ skill.url }}">{{ skill.name }}</a>
         <p>{{ skill.name }}</p>
         <div class="skill-bar skill-bar-{{ skill.color }} skill-{{ skill.percentage }} wow animated slideInLeft" data-wow-delay="{{ forloop.index | divided_by: 20.0 }}">
           <span>{{ skill.percentage }}%</span>
