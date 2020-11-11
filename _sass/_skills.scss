@@ -3,7 +3,7 @@
   position: relative;
   overflow: hidden;
 
-  > a {
+  > p {
     margin: 0;
     font-size: 18px;
   }
@@ -16,6 +16,15 @@
     position: absolute;
     background: $light;
     bottom: 0;
+  }
+
+  > a {
+    margin: 0;
+    font-size: 18px;
+  }
+
+  a:visited {
+    color: red;
   }
 
 }
