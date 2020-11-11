@@ -18,14 +18,31 @@
     bottom: 0;
   }
 
-  > a {
-    margin: 0;
-    font-size: 18px;
+  //Links Mixin
+  @mixin links ($link, $visited, $hover, $active) {
+  & {
+      color: $link;
+      &:visited {
+        color: $visited;
+      }
+      &:hover {
+        color: $hover;
+      }
+      &:active, &:focus {
+        color: $active;
+      }
+    }
   }
 
-  a:visited {
-    color: red;
+  a { @include links(orange, blue, yellow, teal); }
+
+  //Styling not needed for demo
+  a {
+    padding: 4px 10px;
+    font-size: 20px;
+    background: #444;
   }
+
 
 }
 
