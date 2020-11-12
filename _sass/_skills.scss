@@ -22,14 +22,18 @@
   @mixin links ($link, $visited, $hover, $active) {
   & {
       color: $link;
+      text-decoration: none;
       &:visited {
         color: $visited;
+	text-decoration: none;
       }
       &:hover {
         color: $hover;
+	text-decoration: none;
       }
       &:active, &:focus {
         color: $active;
+	text-decoration: none;
       }
     }
   }
