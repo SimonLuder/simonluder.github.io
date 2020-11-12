@@ -34,7 +34,7 @@
     }
   }
 
-  a { @include links(orange, blue, yellow, teal); }
+  a { @include links(black, black, black, black); }
 
   a {
     font-size: 18px;
