@@ -13,7 +13,7 @@ Recommender systems play an important role in our modern life. Large companies s
 
 This infographic explains the basic idea of recommendation systems and where they are used.
 
-{% include elements/figure.html image="pictures/Recommender Systems oversimplified L.jpg" caption="" %}
+{% include elements/figure.html image="../pictures/Recommender Systems oversimplified L.jpg" caption="rsy infographic" %}
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/roman-studer/fhnw-ds-fs2020-recommender_systems" text="Check it out on GitHub" %}
