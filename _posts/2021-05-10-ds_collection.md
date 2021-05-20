@@ -21,15 +21,10 @@ A small collection of materials on ML and other stuff.
 
 | Title         | URL           | Tags  |
 | ------------- |---------------| ------|
-| Understanding the Difference Between Normalization vs. Standardization | https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/ | Standardisazion Normalisazion |
+| Understanding the Difference Between Normalization vs. Standardization | https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/ | Standardization, Normalisation |
 |  |  |  |
 
-## Unsupervised Learning
 
-| Title         | URL           | Tags  |
-| ------------- |---------------| ------|
-|  |  |  |
-|  |  |  |
 
 ## Neuronal Networks
 
