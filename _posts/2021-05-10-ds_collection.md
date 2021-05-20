@@ -1,19 +1,11 @@
 ---
-title: Recommender Systems Oversimplified
-tags: [Recommender Systems, Infographic]
+title: Data Science Collection
+tags: [Collection]
 style: 
 color: 
-description: An infographic about the basic applications and functionality of recommender systems.
+description: A small collection of materials on ML and other stuff.
 ---
 
-
----
-layout: page
-title: ds collection
-permalink: /ds_collection/
----
-
-# Data Science Collection
 
 A small collection of materials on ML and other stuff.
 
