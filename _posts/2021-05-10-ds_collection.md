@@ -1,10 +1,21 @@
 ---
+title: Recommender Systems Oversimplified
+tags: [Recommender Systems, Infographic]
+style: 
+color: 
+description: An infographic about the basic applications and functionality of recommender systems.
+---
+
+
+---
 layout: page
 title: ds collection
 permalink: /ds_collection/
 ---
 
-# ml_playground
+# Data Science Collection
+
+A small collection of materials on ML and other stuff.
 
 ## Linear & Logistic Regression
 
@@ -25,7 +36,6 @@ permalink: /ds_collection/
 
 | Title         | URL           | Tags  |
 | ------------- |---------------| ------|
-|  |  |  |
 |  |  |  |
 |  |  |  |
 
