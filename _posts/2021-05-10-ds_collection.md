@@ -17,11 +17,11 @@ A small collection of materials on ML and other stuff.
 |  |  |  |
 |  |  |  |
 
-## Supervised Learning
+## Feature Engineering
 
 | Title         | URL           | Tags  |
 | ------------- |---------------| ------|
-|  |  |  |
+| Understanding the Difference Between Normalization vs. Standardization | https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/ | Standardisazion Normalisazion |
 |  |  |  |
 
 ## Unsupervised Learning
