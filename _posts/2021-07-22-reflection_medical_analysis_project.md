@@ -1,5 +1,5 @@
 ---
-title: Reflection: Medical Analysis
+title: Reflection Medical Analysis
 tags: [Reflection, Project]
 style: 
 color: 
