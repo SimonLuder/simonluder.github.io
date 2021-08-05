@@ -6,6 +6,8 @@ color:
 description: A reflection of the project Medical Analysis from FS21.
 ---
 
+{% include elements/figure.html image="https://github.com/SimonLuder/SimonLuder.github.io/blob/main/pictures/Medical_Zeichenfläche 1.png?raw=true" caption="" %}
+
 
 During the spring semester of 2021, I was part of a group semester project analyzing medical patient data. The goal of the analysis was to explore whether ocular disease, specifically uveitis, can be predicted by a variety of attributes such as blood and inflammation values. The causes of this disease are wide ranging and have not yet been fully explored. The results of our analysis should therefore help to identify potential patterns in the existing data and thereby contribute to a better understanding of the disease.
 
