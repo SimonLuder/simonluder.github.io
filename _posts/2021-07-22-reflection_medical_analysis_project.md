@@ -3,7 +3,7 @@ title: Reflection Medical Analysis
 tags: [Reflection, Project]
 style: 
 color: 
-description: A reflection of the project: Medical Analysis from FS21.
+description: A reflection of the project Medical Analysis from FS21.
 ---
 
 
