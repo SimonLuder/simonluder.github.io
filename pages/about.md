@@ -7,8 +7,13 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hello, my name is Simon Luder. I am happy to welcome you here.
+
+At the moment I am enrolled as a full-time Data Science student at the FHNW. 
+In my studies I could so far gain various experiences in the areas of programming, data analysis and visualization, statistics and machine learning. 
+Besides the theoretical education I had the opportunity to gain practical experience in various projects. Below is a small collection of projects in which I have been working on.
+
+
 
 <div class="row">
 {% include about/skills.html title="Data Science" source=site.data.datascience-skills %}
