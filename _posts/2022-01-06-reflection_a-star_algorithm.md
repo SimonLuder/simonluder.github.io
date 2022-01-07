@@ -1,12 +1,12 @@
 ---
-title: Reflection: A-Star Algorithms from Scratch
+title: Reflection A-Star Algorithms from Scratch
 tags: [Reflection, Algorithms]
 style: 
 color: 
 description: A reflection of my implementation and application of the A-star algorighm.
 ---
 
-{% include elements/figure.html image="https://github.com/SimonLuder/SimonLuder.github.io/blob/main/pictures/A-Star-Path.png?raw=true" caption="" %}
+{% include elements/figure.html image="https://github.com/SimonLuder/SimonLuder.github.io/blob/main/pictures/A-Star-Path_small.png?raw=true" caption="" %}
 
 During my studies I had the task to implement the A-Star algorithm to find the shortest path between two points on a pixel based map. The A-Star algorithm is a graph-based algorithm, which follows the most promising path to solve a problem, based on the already covered distance as well as on a guess of the remaining distance to the target.
 
