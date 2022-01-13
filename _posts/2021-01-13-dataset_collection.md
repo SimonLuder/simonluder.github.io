@@ -1,0 +1,31 @@
+---
+title: A Dataset Collection
+tags: [Collection, Data]
+style: 
+color: 
+description: A small collection of datasets on various topics.
+---
+
+A small collection of datasets on various topics.
+
+## Multiple Datasets & Topics :books:
+| Title         |  Description                                                          | Format | URL  |
+| ------------- |--------------------------------------------------------------------------------------------| ------------| ----------------------- |
+| Kaggle | Kaggle contains a variety of shared datasets about various topics. | CSV, JSON, ... | https://www.kaggle.com/datasets |
+| rfordatascience tidytuesday | A GitHub repository from the rfordatascience comunitythat uploads a new tidy dataset every tuesday. | CSV | https://github.com/rfordatascience/tidytuesday |
+| SRF Data on Github | Code & data from SRF Data, the data-driven journalism unit of Swiss Radio and TV. | CSV| https://github.com/srfdata |
+
+## Climate and Weather :partly_sunny:
+| Title         |  Description                                                          | Format | URL  |
+| ------------- |--------------------------------------------------------------------------------------------| ------------| ----------------------- |
+| openSenseMap | Collection of worldwide distributed climate measurement boxes including interactive map and selection of the desired stations or area | CSV, JSON, Tidy | https://opensensemap.org/ |
+|  |  |  |
+
+
+
+## Geographic Data :earth_africa:
+
+| Title         |  Description                                                    | Format | URL  |
+| ------------- |--------------------------------------------------------------------------------------------| ------------| ----------------------- |
+| Snazzy Maps | Download highly customizable images from Google Maps. | PNG | https://snazzymaps.com/ |
+
