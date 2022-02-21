@@ -12,7 +12,7 @@ A small collection of datasets on various topics.
 
 | Title         |  Description                                                          | Format | URL  |
 | ------------- |--------------------------------------------------------------------------------------------| ------------| ----------------------- |
-| Kaggle | Kaggle contains a variety of shared datasets about various topics. | CSV, JSON, ... | https://www.kaggle.com/datasets |
+| Kaggle | Kaggle contains a variety of shared datasets about various topics. | CSV, JSON, ... | [link](https://www.kaggle.com/datasets) |
 | rfordatascience tidytuesday | A GitHub repository from the rfordatascience comunitythat uploads a new tidy dataset every tuesday. | CSV | https://github.com/rfordatascience/tidytuesday |
 | SRF Data on Github | Code & data from SRF Data, the data-driven journalism unit of Swiss Radio and TV. | CSV| https://github.com/srfdata |
 
