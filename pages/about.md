@@ -18,9 +18,6 @@ Besides the theoretical education I had the opportunity to gain practical experi
 - Implementation of a recommender system for shopping cart data.
 
 <div class="row">
-{% include about/wordcloud.html %}
-
-<div class="row">
 {% include about/skills.html title="Data Science" source=site.data.datascience-skills %}
 {% include about/skills.html title="Programming" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
