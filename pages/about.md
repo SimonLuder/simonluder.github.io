@@ -9,15 +9,16 @@ weight: 3
 
 Hello, my name is Simon Luder. I am happy to welcome you here.
 
-At the moment I am enrolled as a full-time Data Science student at the FHNW. 
-In my studies I could so far gain various experiences in the areas of programming, data analysis and visualization, statistics and machine learning. 
+At the moment I am enrolled as a full-time Data Science student at the FHNW.
+In my studies I could so far gain various experiences in the areas of programming, data analysis and visualization, statistics and machine learning.
 Besides the theoretical education I had the opportunity to gain practical experience in various projects. Below is a small collection of projects in which I have been working on:
 
 - Medical evaluation of patients with suspicion of uveitis.
-- Analysis of sensor data for a test apartment setup at ETH Zurich. 
+- Analysis of sensor data for a test apartment setup at ETH Zurich.
 - Implementation of a recommender system for shopping cart data.
 
-
+<div class="row">
+{% include about/wordcloud.html %}
 
 <div class="row">
 {% include about/skills.html title="Data Science" source=site.data.datascience-skills %}
