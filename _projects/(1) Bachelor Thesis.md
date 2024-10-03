@@ -13,4 +13,17 @@ To improve the calculation of product similarities, three different approaches w
 
 Image segmentation was used in this thesis to improve the accuracy of product similarity recommendations by removing irrelevant background information from product images. By isolating the products from their backgrounds, the system could focus solely on the key visual features of the items, such as shape and texture, which are essential for accurately comparing products. This helped mitigate the effects of varying backgrounds, angles, and image resolutions, ensuring that the product similarity calculations were more consistent and reliable.
 
-The performance of these models was evaluated through a qualitative survey, comparing their results on both segmented and non-segmented images. The deep learning-based models outperformed the SSIM approach in terms of generating more accurate and relevant product recommendations in therms of the percieved visual similarity. The CLIP-based approach in particular performed well with different backgrounds and perspectives. At the end of the project, the knowledge and results gained were successfully used to extend the existing recommender system at InnoFind.
+<p align="center">
+  <img src="./images/shirt_random.png" alt="drawing"/>
+</p>
+
+<p align="center">
+  <img src="./images/shirt_reference.png" alt="drawing" width="20%"/>
+</p>
+
+<p align="center">
+  <img src="./images/shirt_clip_seg.png" alt="drawing" width="50%"/>
+</p>
+
+
+The performance of the applied models was evaluated through a qualitative survey, comparing their results on both segmented and non-segmented images. The deep learning-based models outperformed the SSIM approach in terms of generating more accurate and relevant product recommendations in therms of the percieved visual similarity. The CLIP-based approach in particular performed well with different backgrounds and perspectives. At the end of the project, the knowledge and results gained were successfully used to extend the existing recommender system at InnoFind.
